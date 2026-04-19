@@ -1,0 +1,2 @@
+# Simulated-Campus-Cityscape-An-Animated-2D-Environment-Built-with-Computer-Graphics-Techniques
+This project develops an interactive 2D animated university campus simulation using OpenGL and C, integrating fundamental computer graphics algorithms (like Bresenham and Midpoint Circle), 2D transformations, and time-based animation to create a dynamic environment featuring day–night cycles, weather effects, moving objects, and user interaction.
